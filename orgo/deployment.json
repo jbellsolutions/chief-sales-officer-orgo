@@ -1,0 +1,11 @@
+{
+  "agent": "Chief Sales Officer",
+  "computer_id": "afdb8c8d-345a-4d52-ad45-e0f60e7ca9ea",
+  "workspace_id": "12e01700-63d4-452c-9107-ced7a0098217",
+  "computer_name": "Chief Sales Officer",
+  "repository": "https://github.com/jbellsolutions/chief-sales-officer-orgo",
+  "runtime_policy": "preserve-installed-hermes",
+  "runtime_observed_commit": "aa30e02d860fb2683db0d9d2241d4980a6ee6978",
+  "observed_at": "2026-10-08",
+  "instance": "chief-sales-officer"
+}

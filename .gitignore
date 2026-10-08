@@ -1,0 +1,9 @@
+.env
+.env.*
+!agent.example.env
+*.db
+*.db-*
+__pycache__/
+*.pyc
+.private/
+.deploy/
